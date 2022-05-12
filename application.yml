@@ -2,4 +2,4 @@ microservice:
  prakatService:
   myService:
    endpoint:
-         uri: welcome
+    uri: welcome
