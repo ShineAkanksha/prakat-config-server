@@ -1,5 +1,5 @@
 microservice:
- prakat-service:
-  my-service:
+ prakatService:
+  myService:
    endpoint:
          uri: welcome
