@@ -1,0 +1,5 @@
+microservice:
+ prakat-service:
+  my-service:
+   endpoint:
+         uri:"welcome to github"
